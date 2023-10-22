@@ -1,10 +1,5 @@
-# run local env
-superbase start
+# Supabase pgVector example
 
-superbase functions serve hello
+see a Zenn blog at
 
-superbase functions deploy hello  --project-ref xxx
 
-or run it from WebStorm extension
-
-or deno run index.ts
