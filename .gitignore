@@ -1,0 +1,5 @@
+.idea
+.env
+.env.local
+.env.development.local
+.fleet
